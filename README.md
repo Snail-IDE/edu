@@ -8,7 +8,7 @@ These lessons will teach using the Snail IDE ui up to creating your own extensio
 
 ## Why Learn Snail IDE?
 
-Snail IDE is a visual blocked based language that is built off PenguinMod. It is writen in javascript.
+Snail IDE is a visual blocked based language that is built off PenguinMod. It can be used as a programming language or a tool to help you learn other programming languages. It even has AI tools such as ChatGPT which can be used without an OpenAi account to create even cooler projects.
 
 ## Get Started!
 
